@@ -1,10 +1,10 @@
 {
   "name": "fiken-utils",
   "version": "1.0.0",
-  "main": "index.js",
-  "repository": "ssh://git@github.com/cobraz/fiken-utils.git",
-  "author": "Simen A. W. Olsen <so@bjerk.io>",
+  "repository": "github:cobraz/fiken-utils",
   "license": "Apache-2.0",
+  "author": "Simen A. W. Olsen <so@bjerk.io>",
+  "main": "index.js",
   "bin": {
     "fiken": "dist/cli.js"
   },
