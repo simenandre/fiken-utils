@@ -1,7 +1,7 @@
 {
   "name": "fiken-utils",
   "version": "1.0.0",
-  "repository": "github:cobraz/fiken-utils",
+  "repository": "github:simenandre/fiken-utils",
   "license": "Apache-2.0",
   "author": "Simen A. W. Olsen <so@bjerk.io>",
   "main": "index.js",
